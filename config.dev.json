@@ -12,8 +12,8 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "GoatBot",
-	"prefix": "-",
+	"nickNameBot": "Odiamus🤖Lonon",
+	"prefix": "*",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
@@ -40,7 +40,7 @@
 	"timeZone": "Asia/Ho_Chi_Minh",
 	"credentials": {
 		"gmailAccount": {
-			"email": "",
+			"email": "odiamuslonon@gmail.com",
 			"clientId": "",
 			"clientSecret": "",
 			"refreshToken": "",
