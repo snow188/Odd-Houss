@@ -5,7 +5,7 @@ module.exports = {
 		version: "1.2",
 		author: "Loid Butter",
 		countDown: 5,
-		role: 0,
+		role: 2,
 		shortDescription: {
 			vi: "",
 			en: "adc command"
