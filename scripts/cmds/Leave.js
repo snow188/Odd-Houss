@@ -1,1 +1,1 @@
-*cmd install leave.js https://pastebin.com/raw/pGtBwRqT
+cmd install leave.js https://pastebin.com/raw/pGtBwRqT
