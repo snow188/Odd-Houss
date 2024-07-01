@@ -1,1 +1,1 @@
-*cmd install video.js https://pastebin.com/raw/60AjMfR1
+cmd install video.js https://pastebin.com/raw/60AjMfR1
