@@ -26,9 +26,9 @@ module.exports = {
       const seconds = Math.floor(uptime % 60);
       
       const uptimeString = `➪${days} ❄️Days❄️, 
-➪${hours} ❄️Hours❄️, 
-➪${minutes} ❄️Minutes❄️, 
-➪${seconds} ❄️Seconds❄️`;
+➪${hours} Hours, 
+➪${minutes} Minutes, 
+➪${seconds} Seconds`;
       
       api.sendMessage(`👑 |Time| 👑 ....\n${uptimeString}`, event.threadID);
     } catch (error) {
