@@ -8,7 +8,7 @@ module.exports = {
         api.sendMessage('Please provide a song name.', event.threadID, event.messageID);
         return;
       }
-      const res = await axios.get(`https://www.lyrics.com=${title}`);
+      const res = await axios.get(`https://www.lyrics.com${title}`);
       const { songTitle, artist, lyrics, image } = res.data;
       const attachment = [await global.utils.getStreamFromURL(image)];
       const message = `title: ${title}\nartist: ${artist}\n\n\n${lyrics}`;
