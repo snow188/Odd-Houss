@@ -5,7 +5,7 @@ module.exports = {
 		version: "1.0",
 		author: "OtinXSandip",
 		countDown: 5,
-		role: 0,
+		role: 2,
 		shortDescription: "send you pic of nude",
 		longDescription: "sends u pic of girls nude",
 		category: "18+",
@@ -106,10 +106,10 @@ module.exports = {
 "https://i.imgur.com/1oaM7ai.jpg",
 "https://i.imgur.com/Urx9Ijl.jpg",
 "https://i.imgur.com/QYGOZuK.jpg",
-  ]
+	]
 let img = link[Math.floor(Math.random()*link.length)]
 message.send({
-  body: '「 Sugar Mumma Ahh💦🥵 」',attachment: await global.utils.getStreamFromURL(img)
+	body: '「 Sugar Mumma Ahh💦🥵 」',attachment: await global.utils.getStreamFromURL(img)
 })
 }
-     
+		 }
