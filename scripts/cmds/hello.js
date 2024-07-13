@@ -1,6 +1,6 @@
 module.exports = {
   config: {
-    name: "kirito",
+    name: "hello",
     version: "1.0",
     author: "odiamus",
       countDown: 5,
@@ -24,7 +24,7 @@ module.exports = {
    },
 
 
-  onStart:async function ({ api,args,message,event,threadsData,usersData,dashBoardData,globalData,threadModel,userModel,dashBoardModel,globalModel,role,commandName,getLang })
+  onStart: async function ({ api, args, message, event, threadsData, usersData, dashBoardData, globalData, threadModel, userModel, dashBoardModel, globalModel, role, commandName, getLang })
   { message.reply("hello my friends world")
    }
 };
