@@ -17,7 +17,7 @@
  } 
  },
 
- lang: {
+ langs: {
  en: {
  hello: "hello_world",
  helloWithName: "hello, your facebook id is %1"
