@@ -1,4 +1,4 @@
-module.export = {
+module.exports = {
   config: {
     name: "kirito",
     version: "1.0",
