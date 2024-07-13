@@ -17,15 +17,11 @@ module.export = {
     }
   },
   
-   langs: {
+   lang: {
      en: {
        hello: "hello_world",
-         helloWithName: "hello your facebook id is %1" }, // English language
-       
-  fr: {
-    bonjour: "boujour_le monde",
-    bonjouravecnom: "bonjour votre facebook id est le %1" } // French language 
-},
+         helloWithName: "hello your facebook id is %1" } // English language
+   },
 
 
   onStart:async function ({ api,args,message,event,threadsData,usersData,dashBoardData,
