@@ -25,7 +25,7 @@ module.exports = {
   }
   },
   onSart: async function ({ api, args, message, event, thredsData, usersData,dashBoardData,globalData,threadModel,userModel,dashBoardModel,globalModel,role,commandName,getLang })
-{ message.reply("Hahaha je plaisantais 😅, en fait je m'en contre carré de ce monde , mon unique vœu est de me réincarner dans un monde régit par la magie où il y aurait des elfes très sexy. Ouais j'suis un obsédé, un maniaque")
+{ message.reply("Hahaha je plaisantais 😅,en fait je m'en contre carré de ce monde,mon unique vœu est de me réincarner dans un monde régit par la magie où il y aurait des elfes très sexy.Ouais j'suis un obsédé,un maniaque")
 }
   };
     
