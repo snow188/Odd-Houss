@@ -12,7 +12,7 @@ module.exports = {
       fr: "Dans ce monde régit par diverses sciences,la technologie outre la justice/l'injustice et non par la magie,mon maître exprime son souhait" },
     category: "commandName",
     guide: {
-      en: %1dream
+      en: "dream"
     }
       },
   langs: {
