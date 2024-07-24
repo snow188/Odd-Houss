@@ -10,7 +10,7 @@ module.exports = {
     role: 0,
     shortDescription: "Download and send Facebook/Instagram/TikTok/CapCut videos",
     longDescription: "This function allows you to download and send videos from Facebook, Instagram, TikTok, and CapCut.",
-    category: "other",
+    category: "OTHER",
     guide: "{prefix}downloadmp4 <link>"
   },
 
