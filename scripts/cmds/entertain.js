@@ -10,7 +10,7 @@ module.exports = {
     role: 0,
     shortDescription: "",
     longDescription: "bot will send you random video to entertain you",
-    category: "𝗙𝗨𝗡",
+    category: "FUN",
     guide: "{pn}",
   },
 
